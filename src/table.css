@@ -1,0 +1,35 @@
+form {
+    font-weight: bold;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: inset;
+    text-align: center;
+}
+
+div {
+    padding: 0.5rem;
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+body {
+    background-color: darkgray;
+}
+td,th{
+    padding: 25px;
+    background-color: white;
+    border-color: black;
+}
+input[type=text][type=email][type=tel][type=radio]{
+    box-sizing: border-box;
+    border-color: black;
+    border-radius: 10px;
+}
+.button{
+    text-align: center  ;
+}
